@@ -1,0 +1,10 @@
+accelerate 
+bitsandbytes 
+duckduckgo-search 
+einops 
+google-search-results 
+huggingface_hub 
+langchain 
+tiktoken
+transformers 
+wikipedia
